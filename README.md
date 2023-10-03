@@ -1,5 +1,6 @@
-#### I Am Menna :cherry_blossom:
-#### I'm gonna be a HOKAGE Someday :sunglasses:
+**I Am Menna :cherry_blossom:**  
+**I'm gonna be a HOKAGE Someday :sunglasses:**  
+
 [![Menna's GitHub stats](https://github-readme-stats.vercel.app/api?username=MennaCC&hide=prs,stars&show_icons=true&theme=radical&hide_border=true)](https://github.com/MennaCC/github-readme-stats&hide=stars,prs)
 
 <!--
