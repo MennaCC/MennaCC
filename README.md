@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Menna's GitHub stats](https://github-readme-stats.vercel.app/api?username=MennaCC&hide=prs,stars&show_icons=true&theme=radical)](https://github.com/MennaCC/github-readme-stats&hide=stars,prs)
 
 <!--
 **MennaCC/MennaCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
